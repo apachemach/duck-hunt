@@ -14,7 +14,8 @@
         "9f7a1c12-054c-4977-b953-a4160bf4fb87",
         "db555aba-f391-44c3-85d1-44f6bbdaf26e",
         "6921b029-6b64-4750-b8dc-68dbf19299a8",
-        "cb9702ab-cba8-4fd1-8108-15fa2082721c"
+        "cb9702ab-cba8-4fd1-8108-15fa2082721c",
+        "810e15b2-85ac-411a-bfcf-f9d873896fb9"
     ],
     "IsDnD": true,
     "layers": [
@@ -60,7 +61,7 @@
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
-            "hierarchyFrozen": true,
+            "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
@@ -74,13 +75,14 @@
 {"name": "inst_5B54FCD3","id": "9f7a1c12-054c-4977-b953-a4160bf4fb87","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5B54FCD3","objId": "f96cf96e-ab22-4a5b-af97-914186878f62","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 320,"y": 576},
 {"name": "inst_6A64C76C","id": "db555aba-f391-44c3-85d1-44f6bbdaf26e","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6A64C76C","objId": "f96cf96e-ab22-4a5b-af97-914186878f62","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 608,"y": 608},
 {"name": "inst_59581365","id": "6921b029-6b64-4750-b8dc-68dbf19299a8","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_59581365","objId": "f96cf96e-ab22-4a5b-af97-914186878f62","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 64,"y": 576},
-{"name": "inst_7869D3A4","id": "cb9702ab-cba8-4fd1-8108-15fa2082721c","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7869D3A4","objId": "f96cf96e-ab22-4a5b-af97-914186878f62","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 896,"y": 608}
+{"name": "inst_7869D3A4","id": "cb9702ab-cba8-4fd1-8108-15fa2082721c","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7869D3A4","objId": "f96cf96e-ab22-4a5b-af97-914186878f62","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 896,"y": 608},
+{"name": "inst_2A145190","id": "810e15b2-85ac-411a-bfcf-f9d873896fb9","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2A145190","objId": "ea2e82d2-33d2-49ec-8c18-06a1bf96b26e","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 544,"y": 288}
             ],
             "layers": [
 
             ],
             "m_parentID": "00000000-0000-0000-0000-000000000000",
-            "m_serialiseFrozen": true,
+            "m_serialiseFrozen": false,
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
             "userdefined_depth": false,
